@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Тимофей Котловой](https://up.htmlacademy.ru/javascript/11/user/285057).
-* Наставник: `Неизвестно`.
+* Наставник: `Борис Ванюшин`.
 
 ---
 
