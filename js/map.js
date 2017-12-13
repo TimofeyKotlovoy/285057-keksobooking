@@ -80,8 +80,8 @@ mapBlock.classList.remove('map--faded');
 
 var numberOfAnnouncements = 8;
 
-var getRandomElement = function (massive) {
-  var element = massive[Math.floor(Math.random() * massive.length)];
+var getRandomElement = function (array) {
+  var element = array[Math.floor(Math.random() * array.length)];
   return element;
 };
 
