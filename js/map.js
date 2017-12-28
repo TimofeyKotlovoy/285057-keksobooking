@@ -251,11 +251,6 @@ var activateMap = function () {
 // change pin
 mainPin.addEventListener('mouseup', activateMap);
 
-var closePopup = function () {
-  var mapCard = document.querySelector('.popup');
-  mapBlock.removeChild(mapCard);
-};
-
 mainPin.addEventListener('click', activateMap);
 
 mainPin.addEventListener('keydown', function (evt) {
